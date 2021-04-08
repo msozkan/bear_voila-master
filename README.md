@@ -1,4 +1,5 @@
 # bear_voila_heroku_2149
+https://hangiayi.herokuapp.com
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msozkan/bear_voila-master/HEAD?urlpath=voila%2Frender%2Fbear_classifier.ipynb)
 
